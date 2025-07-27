@@ -16,6 +16,7 @@ This project simulates and visualizes synthetic ECG (Electrocardiogram) data usi
 |------|-------------|
 | `synthetic_ecg_milliseconds.csv` | Simulated ECG data (Time in ms, Amplitude in mV) |
 | `ecg_plots_milliseconds.ipynb`   | Jupyter Notebook with ECG visualization and analysis |
+| `ecg_plots_milliseconds.py`   | Full python code (same as the Jupyter notebook code) |
 
 ---
 
